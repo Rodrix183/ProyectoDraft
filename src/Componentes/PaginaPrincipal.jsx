@@ -23,7 +23,7 @@ function PaginaPrincipal() {
                                 <NavDropdown.Item href="#action/3.4">Informes de Gestión</NavDropdown.Item>
                             </NavDropdown>
                             <Nav.Link href="#home">Nuestros Programas</Nav.Link>
-                            <Nav.Link href="google.com">Blog</Nav.Link>
+                            <Nav.Link href="https://google.com">Blog</Nav.Link>
                             <Nav.Link href="#link">Voluntariado</Nav.Link>
                             <Nav.Link href="#link">Clubes Estudiantiles</Nav.Link>
                             <NavDropdown title="Donantes y Aliados" id="basic-nav-dropdown">
